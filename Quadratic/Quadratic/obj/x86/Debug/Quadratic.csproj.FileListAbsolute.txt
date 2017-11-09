@@ -1,0 +1,8 @@
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\class1.Form1.resources
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\class1.Properties.Resources.resources
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\Quadratic.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\bin\Debug\Quadratic.exe
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\bin\Debug\Quadratic.pdb
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\Quadratic.exe
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\Quadratic.pdb
+C:\Users\TEMP.VLO30-06.004\Documents\Visual Studio 2010\Projects\Quadratic\Quadratic\obj\x86\Debug\Quadratic.csprojResolveAssemblyReference.cache
